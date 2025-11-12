@@ -133,6 +133,12 @@ env/
 
 ---
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abhijeet-Kumar&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhijeet&show_icons=true&theme=tokyonight" width="45%"/> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet&theme=tokyonight" width="45%"/> </p>
+<h3 align="center"> 🔥 Believe it! The weather has no secrets now ⚡ </h3>
+
+---
+
 * **Abhijeet** - [GitHub Profile](https://github.com/Abhijeet01012002)
 * **Abhijeet** - [Linkdin Profile](https://www.linkedin.com/in/abhijeet-bhagat-4912b2382)
 * **Abhijeet** - [Abhijeet.akj@gmail.com](abhijeet.akj@gmail.com)
